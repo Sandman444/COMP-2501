@@ -1,9 +1,12 @@
-#include <SFML/Graphics.hpp>
+#include "Game.h"
 
-int main() {
-	sf::RenderWindow window(sf::VideoMode(200, 200), "Test");
+int main()
+{
 
-	while (window.isOpen()) {
-	}
+	Game gameAdventure;
+
+	gameAdventure.loop();
+
 	return 0;
+
 }
