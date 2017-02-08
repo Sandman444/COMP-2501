@@ -1,4 +1,13 @@
 ﻿  Main.cpp
+<<<<<<< HEAD
   LINK : C:\Users\Sandy\Documents\GitHub\COMP-2501\Debug\2501.exe not found or not built by the last incremental link; performing full link
   2501.vcxproj -> C:\Users\Sandy\Documents\GitHub\COMP-2501\Debug\2501.exe
   2501.vcxproj -> C:\Users\Sandy\Documents\GitHub\COMP-2501\Debug\2501.pdb (Full PDB)
+=======
+  Game.cpp
+c:\users\forest\documents\github\comp-2501\game.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\forest\documents\github\comp-2501\game.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  2501.vcxproj -> C:\Users\Forest\Documents\GitHub\COMP-2501\Debug\2501.exe
+  2501.vcxproj -> C:\Users\Forest\Documents\GitHub\COMP-2501\Debug\2501.pdb (Full PDB)
+>>>>>>> origin/master

@@ -1,2 +1,6 @@
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+<<<<<<< HEAD
 Debug|Win32|C:\Users\Sandy\Documents\GitHub\COMP-2501\|
+=======
+Debug|Win32|C:\Users\Forest\Documents\GitHub\COMP-2501\|
+>>>>>>> origin/master
